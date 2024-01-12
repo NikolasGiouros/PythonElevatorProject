@@ -1,5 +1,3 @@
-# PythonElevatorProject
-
 # Elevator Simulation Project
 
 ## Overview
