@@ -1,7 +1,6 @@
 # Elevator Simulation Project
 
-## Overview
-This project simulates the movement of an elevator in a building with multiple floors. The goal is to move residents between floors until the elevator reaches an empty state on the roof.
+This project is an evacuation simulation plan that models the movement of an elevator in a building with multiple floors during an evacuation scenario. The goal is to efficiently transport residents between floors until the elevator reaches an empty state on the roof.
 
 ## Algorithms Used
 - Depth-First Search (DFS)
